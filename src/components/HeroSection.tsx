@@ -9,9 +9,7 @@ const HeroSection = () => {
           <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-gradient-to-r from-blue-600 to-indigo-600 flex items-center justify-center">
             <Icon name="Wrench" size={48} className="text-white" />
           </div>
-          <h1 className="text-5xl font-bold text-gray-900 mb-4">
-            Александр Петров
-          </h1>
+          <h1 className="text-5xl font-bold text-gray-900 mb-4">Алиев Анвар</h1>
           <p className="text-xl text-gray-600 mb-2">
             Преподаватель технологии и труда
           </p>
