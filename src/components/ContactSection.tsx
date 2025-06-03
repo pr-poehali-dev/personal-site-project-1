@@ -28,7 +28,7 @@ const ContactSection = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Icon name="Phone" size={20} className="text-gray-500" />
-                <span className="text-gray-700">+7 (999) 123-45-67</span>
+                <span className="text-gray-700">+7 (999) 9829080</span>
               </div>
               <div className="flex items-center gap-3">
                 <Icon name="MapPin" size={20} className="text-gray-500" />

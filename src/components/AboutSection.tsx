@@ -8,7 +8,8 @@ const AboutSection = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">О себе</h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Опытный педагог с современным подходом к преподаванию технологий
+            {" "}
+            Студент 3 курса с современным подходом к преподаванию технологий
           </p>
         </div>
 
@@ -28,17 +29,20 @@ const AboutSection = () => {
               <div className="space-y-4">
                 <div>
                   <h4 className="font-semibold text-gray-900">
-                    Московский педагогический государственный университет
+                    Колледж коломна{" "}
                   </h4>
-                  <p className="text-gray-600">Магистр педагогических наук</p>
-                  <p className="text-sm text-gray-500">2019-2021</p>
+                  <p className="text-gray-600">
+                    Мастер по ремонту и обслуживанию автомобилей
+                  </p>
+                  <p className="text-sm text-gray-500">2019-2022</p>
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">
-                    Московский государственный технический университет
+                    {" "}
+                    Государственный социально-гуманитарный университет
                   </h4>
-                  <p className="text-gray-600">Бакалавр технических наук</p>
-                  <p className="text-sm text-gray-500">2015-2019</p>
+                  <p className="text-gray-600">студент</p>
+                  <p className="text-sm text-gray-500">2022</p>
                 </div>
               </div>
             </CardContent>
